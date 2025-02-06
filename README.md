@@ -49,5 +49,6 @@ If you would like to contribute to this project, feel free to open a **pull requ
 
 ## Screenshots
 
-[![TicTac1.png](https://i.postimg.cc/q7GgdPq3/TicTac1.png)]
-[![TicTac2.png](https://i.postimg.cc/y8m8FMFb/TicTac2.png)]
+![TicTac1.png](https://i.postimg.cc/q7GgdPq3/TicTac1.png)
+
+![TicTac2.png](https://i.postimg.cc/y8m8FMFb/TicTac2.png)
